@@ -7,7 +7,7 @@ token sequences are. The more different the two strings, the higher the ncd valu
 
 
 ## Dependencies
-This is a Qt GUI application project written in C++. To run the project codes, you will need:
+This is a Qt GUI application project written in C++. You will need:
 - MinGW (for Windows)
 - GCC (for Linux)
 
