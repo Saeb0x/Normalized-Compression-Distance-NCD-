@@ -13,7 +13,7 @@ This is a Qt GUI application project written in C++. You will need:
 
 ## Get Source
 ```
-git clone https://github.com/saebnaser/Normalized-Compression-Distance-NCD-.git
+git clone https://github.com/Saeb0x/Normalized-Compression-Distance-NCD-.git
 
 ```
 
